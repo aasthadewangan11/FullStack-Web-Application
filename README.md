@@ -4,9 +4,16 @@
 
 To set up the development environment, follow these steps:
 
-Install Node.js and npm: Download and install Node.js from the official website: https://nodejs.org/en/download/
-Install MongoDB: Download and install MongoDB from the official website: https://www.mongodb.com/download-center/community
-Clone the repository: Clone the repository using Git: git clone https://github.com/your-username/assessment-management-system.git
+### Install Node.js and npm: 
+Download and install Node.js from the official website: https://nodejs.org/en/download/
+
+
+### Install MongoDB:
+Download and install MongoDB from the official website: https://www.mongodb.com/download-center/community
+
+
+### Clone the repository:
+Clone the repository using Git: git clone https://github.com/your-username/assessment-management-system.git
 Install dependencies: Run npm install in the root directory of the project to install the dependencies.
 Create a MongoDB database: Create a new MongoDB database and update the MONGODB_URI environment variable in the .env file.
 
